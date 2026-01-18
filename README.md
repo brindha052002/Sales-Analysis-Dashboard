@@ -41,9 +41,9 @@ Built key measures such as:
 **🎯 Outcome**
 
 **This dashboard enables users to:** 
-  > Quickly monitor business performance
-  > Identify high-performing regions and products
-  > Analyze trends and customer patterns interactively
+  -> Quickly monitor business performance
+  -> Identify high-performing regions and products
+  -> Analyze trends and customer patterns interactively
 
 The project strengthened my understanding of end-to-end BI development, including data modeling, DAX, and data storytelling.
 
