@@ -40,8 +40,8 @@ Built key measures such as:
 
 **🎯 Outcome**
 
-**This dashboard enables users to:
-**  > Quickly monitor business performance
+**This dashboard enables users to:** 
+  > Quickly monitor business performance
   > Identify high-performing regions and products
   > Analyze trends and customer patterns interactively
 
